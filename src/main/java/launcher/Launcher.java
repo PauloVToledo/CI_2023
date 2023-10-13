@@ -10,3 +10,5 @@ public class Launcher {
         new paginaPrincipalView();
     }
 }
+//verificar.
+// Path: src/main/java/views/paginaPrincipalView.java
